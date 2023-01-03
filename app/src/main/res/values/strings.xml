@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gasto Viagem</string>
+    <string name="distancia">Distância</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="litro">Litro</string>
+    <string name="calcular">Calcular</string>
+    <string name="valor_combustivel">Valor combustivel</string>
+    <string name="km_l">KM/L</string>
+    <string name="km">KM</string>
+</resources>
